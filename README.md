@@ -10,10 +10,10 @@ I'm an undergraduate student in 3rd year pursuing my B.Tech degree in the field 
 
 ### :nerd_face: I'm currently learning:
 
-- <img src="https://i.imgur.com/yq2XvUS.png" height="30" width="25"> / <img src="https://i.imgur.com/l1NTJyu.png" height="30" width="80">
-- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
-- <img src="https://i.imgur.com/wlKcCJD.png" height="30" width="30">
-- <img src="https://www.adobe.com/content/dam/cc/icons/psexpress_app_RGB-01.svg" height="auto" width="auto">
+- <!Flutter><img src="https://i.imgur.com/yq2XvUS.png" height="20" width="auto"> / <!Dart><img src="https://i.imgur.com/l1NTJyu.png" height="20" width="auto">
+- <!Java><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="20" width="auto">
+- <img src="https://i.imgur.com/wlKcCJD.png" height="20" width="auto">
+- <img src="https://www.adobe.com/content/dam/cc/icons/psexpress_app_RGB-01.svg" height="20" width="auto">
 
 ### :thinking: I want to learn:
 
