@@ -33,8 +33,10 @@ I'm an undergraduate student in 3rd year pursuing my B.Tech degree in the field 
 - Sketching 🔲✏
 - Sci-fi movies/tv shows 🖖
 
-### 📞 Contact me on:
+### 📞 Contact me through:
 - Github - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/mehulsudrik2310)</br>
 - Linkedin - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mehul-sudrik-33851a198/)</br>
 - Twitter - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/MehulSudrik)</br>
 - Discord - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='20'>](https://discord.gg/EyeofHorus#1454)</br>
+
+![Profile Visitors](https://gpvc.arturio.dev/mehulsudrik2310)  
