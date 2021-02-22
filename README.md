@@ -10,10 +10,10 @@ I'm an undergraduate student in 3rd year pursuing my B.Tech degree in the field 
 
 ### :nerd_face: I'm currently learning:
 
-- Flutter/Dart
-- Java
-- Arduino
-- Photoshop
+- Flutter <img src="https://raw.githubusercontent.com/mehulsudrik2310/mehulsudrik2310/master/assets/flutter.png" height="auto" width="40">/Dart <img src="https://raw.githubusercontent.com/mehulsudrik2310/mehulsudrik2310/master/assets/dart.jfif" height="auto" width="40">
+- Java <img src="https://raw.githubusercontent.com/mehulsudrik2310/mehulsudrik2310/master/assets/java.png" height="auto" width="40">
+- Arduino <img src="https://raw.githubusercontent.com/mehulsudrik2310/mehulsudrik2310/master/assets/arduino.png" height="auto" width="40">
+- Photoshop <img src="https://raw.githubusercontent.com/mehulsudrik2310/mehulsudrik2310/master/assets/photoshop.png" height="auto" width="40">
 
 ### :thinking: I want to learn:
 
