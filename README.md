@@ -10,14 +10,14 @@ I'm an undergraduate student in 3rd year pursuing my B.Tech degree in the field 
 
 ### :nerd_face: I'm currently learning:
 
-- Flutter <img src="https://i.imgur.com/UtOObyQ.png" height="30" width="25">/Dart <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/dart-logo.png" height="30" width="25">
+- Flutter <img src="https://imgur.com/gallery/j92Tohc" height="30" width="25"> / Dart <img src="https://i.imgur.com/l1NTJyu.png" height="30" width="25">
 - Java <img src="https://github.com/mehulsudrik2310/mehulsudrik2310/tree/master/assets/java.png" height="auto" width="auto">
 - Arduino <img src="https://github.com/mehulsudrik2310/mehulsudrik2310/tree/master/assets/arduino.png" height="auto" width="auto">
 - Photoshop <img src="https://github.com/mehulsudrik2310/mehulsudrik2310/tree/master/assets/photoshop.png" height="auto" width="auto">
 
 ### :thinking: I want to learn:
 
-- Evertything 🌏 😂
+- Everything 🌏 😂
 
 ### 👯 I'm looking to collaborate on:
 
