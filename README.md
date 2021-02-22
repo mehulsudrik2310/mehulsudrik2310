@@ -10,10 +10,10 @@ I'm an undergraduate student in 3rd year pursuing my B.Tech degree in the field 
 
 ### :nerd_face: I'm currently learning:
 
-- Flutter <img src="https://imgur.com/gallery/j92Tohc" height="30" width="25"> / Dart <img src="https://i.imgur.com/l1NTJyu.png" height="30" width="25">
-- Java <img src="https://github.com/mehulsudrik2310/mehulsudrik2310/tree/master/assets/java.png" height="auto" width="auto">
-- Arduino <img src="https://github.com/mehulsudrik2310/mehulsudrik2310/tree/master/assets/arduino.png" height="auto" width="auto">
-- Photoshop <img src="https://github.com/mehulsudrik2310/mehulsudrik2310/tree/master/assets/photoshop.png" height="auto" width="auto">
+- Flutter <img src="https://i.imgur.com/yq2XvUS.png" height="30" width="25"> / Dart <img src="https://i.imgur.com/l1NTJyu.png" height="30" width="25">
+- Java <img src="https://i.imgur.com/K5YHRMk.jpeg" height="auto" width="auto">
+- Arduino <img src="https://i.imgur.com/wlKcCJD.png" height="auto" width="auto">
+- Photoshop <img src="https://www.adobe.com/content/dam/cc/icons/psexpress_app_RGB-01.svg" height="auto" width="auto">
 
 ### :thinking: I want to learn:
 
