@@ -6,7 +6,7 @@ I'm an undergraduate student in 3rd year pursuing my B.Tech degree in the field 
 ### :technologist: I'm currently working on:
 
 - Stock Market Prediction using AI
-- Exchanging data using Li-Fi
+- Data Transmission using Li-Fi
 
 ### :nerd_face: I'm currently learning:
 
