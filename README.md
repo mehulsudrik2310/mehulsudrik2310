@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mehul!
 
-I'm an undergraduate student in 3rd year pursuing my B.Tech degree in the field Information and Communication Technology from Pandit Deendayal Energy University 🏫.
+I'm an undergraduate student in 3rd year, pursuing my B.Tech degree in the field of Information and Communication Technology from Pandit Deendayal Energy University 🏫.
 
 
 ### :technologist: I'm currently working on:
